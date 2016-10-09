@@ -1,2 +1,3 @@
 # Django Tutorial
-Curso Django Iniciante no .Net Coders
+Mini curso de Django para Iniciante no .Net Coders
+
